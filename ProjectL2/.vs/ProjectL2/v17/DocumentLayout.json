@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{87F91092-504C-4736-B7AA-EE9799119922}|ProjectL2\\ProjectL2.vcxproj|C:\\Users\\Ming\\Documents\\GitHub\\C\u002B\u002B Learn\\ProjectL2\\ProjectL2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87F91092-504C-4736-B7AA-EE9799119922}|ProjectL2\\ProjectL2.vcxproj|solutionrelative:ProjectL2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F91092-504C-4736-B7AA-EE9799119922}|ProjectL2\\ProjectL2.vcxproj|C:\\Users\\Ming\\Documents\\GitHub\\C\u002B\u002B Learn\\ProjectL2\\ProjectL2\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87F91092-504C-4736-B7AA-EE9799119922}|ProjectL2\\ProjectL2.vcxproj|solutionrelative:ProjectL2\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Log.cpp",
+              "DocumentMoniker": "C:\\Users\\Ming\\Documents\\GitHub\\C\u002B\u002B Learn\\ProjectL2\\ProjectL2\\Log.cpp",
+              "RelativeDocumentMoniker": "ProjectL2\\Log.cpp",
+              "ToolTip": "C:\\Users\\Ming\\Documents\\GitHub\\C\u002B\u002B Learn\\ProjectL2\\ProjectL2\\Log.cpp",
+              "RelativeToolTip": "ProjectL2\\Log.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T02:40:32.942Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "ProjectL2\\Source.cpp",
               "ToolTip": "C:\\Users\\Ming\\Documents\\GitHub\\C\u002B\u002B Learn\\ProjectL2\\ProjectL2\\Source.cpp",
               "RelativeToolTip": "ProjectL2\\Source.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-25T01:48:22.532Z",
               "EditorCaption": ""
